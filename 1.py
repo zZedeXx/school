@@ -6,7 +6,7 @@ teach = open("Teachers.json")
 T_data = json.load(teach)
 stud = open('Students.json')
 S_data = json.load(stud)
-school = []
+#fsdjfhskhakhhhhhhhhhhhhhssssssssjkfkkssfg
 
 for S_name in S_data:
     name = S_name['name']
